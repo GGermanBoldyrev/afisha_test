@@ -1,0 +1,17 @@
+{
+    "name": "germanboldyrev/afisha_test",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GGermanBoldyrev",
+            "email": "boldyrev_german@mail.ru"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
